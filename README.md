@@ -3,9 +3,11 @@
 
 <h3 align="center"> LE A K</h3>
 
-- sorıık
-- web
-- war yin
+- Retex#2246
+
+- 0xC5A#1337
+
+- Waryin#3037
 
 
 

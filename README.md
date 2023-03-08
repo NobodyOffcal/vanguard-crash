@@ -1,18 +1,14 @@
 
 
 
-<h1 align="center">Hi 👋, I'm unknownrcs</h1>
-<h3 align="center">A passionate c++ developer .</h3>
+
+<h3 align="center">L E A K</h3>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=unknownrcs" alt="unknownrcs" /></a> </p>
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=unknownrcs&label=Profile%20views&color=1d1f20&style=flat-square" alt="unknownrcs" /> </p>
 <p align="left"> <a href="https://twitter.com/unknownrcs" target="blank"><img src="https://img.shields.io/twitter/follow/unknownrcs?logo=twitter&style=for-the-badge" alt="unknownrcs" /></a> </p>
 
-- Synl.io [Management Panel](https://synl.io/)
-- V.VİSKOZ [Company Backend](https://www.vimpi.com/)
-- Portfolio [https://unknownrcs.com/](https://unknownrcs.com./)
-- Spotify [https://sptfy.com/unknownrcs](https://sptfy.com/unknownrcs)
 
 
 <img align="right" width="400px" src="https://user-images.githubusercontent.com/77089894/206934975-0e140d74-3d5e-4e2f-afde-c6e372e5274b.gif">

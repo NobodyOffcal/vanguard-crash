@@ -1,7 +1,11 @@
 
 
 
-<h3 align="center"> LE A K.</h3>
+<h3 align="center"> LE A K</h3>
+
+- sorıık
+- web
+- war yin
 
 
 
